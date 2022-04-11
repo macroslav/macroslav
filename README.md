@@ -16,6 +16,8 @@
 </p>
 
 <h1>
-  Привет! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <p align="center">
+    Привет! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </p>
 </h1>
